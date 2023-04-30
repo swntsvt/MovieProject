@@ -1,0 +1,4 @@
+MovieProject\.env
+menv
+*.pyc
+__pycache__
